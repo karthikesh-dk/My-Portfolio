@@ -54,16 +54,14 @@ function Skills() {
 
     <section className="skills" id="skills">
 
-      <div className="skills-header">
+      <div className="skills-heading">
 
         <p className="section-subtitle">
           MY TOOLKIT
         </p>
 
         <h2 className="section-title">
-          Technologies
-          <br />
-          I enjoy working with.
+          Technologies I enjoy working with.
         </h2>
 
       </div>
